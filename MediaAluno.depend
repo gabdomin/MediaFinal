@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636998673 source:c:\users\dell\desktop\testes\mediaaluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
